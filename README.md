@@ -3,8 +3,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=HardBoss07&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardBoss07&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
----
-
 ## 💻 Tech Stack
 
 ### 🧠 Low-Level & Systems Programming
@@ -16,8 +14,6 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge\&logo=nVIDIA\&logoColor=green)
 
----
-
 ### ⚙️ Backend, APIs & Infrastructure
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -27,8 +23,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge\&logo=Apache%20Maven\&logoColor=white)
-
----
 
 ### 🧩 Frameworks & Frontend
 
@@ -44,8 +38,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge\&logo=p5.js\&logoColor=FFFFFF)
 
----
-
 ### 🗄️ Databases & Storage
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -53,8 +45,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge\&logo=surrealdb\&logoColor=white)
-
----
 
 ### ☁️ Cloud, DevOps & Deployment
 
@@ -71,8 +61,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
----
-
 ### 🎮 Game Dev & Embedded
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
@@ -80,15 +68,11 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge\&logo=Raspberry-Pi)
 
----
-
 ### 🎨 Creative & Design Tools
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge\&logo=blender\&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobe%20photoshop\&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge\&logo=Adobe%20Premiere%20Pro\&logoColor=white)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=HardBoss07&icon=10&color=13)](https://visitcount.itsvg.in)
 
